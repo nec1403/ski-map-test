@@ -1,0 +1,1 @@
+# ski-map-test
